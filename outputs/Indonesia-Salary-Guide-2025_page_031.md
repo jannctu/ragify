@@ -1,0 +1,34 @@
+# Sales & Marketing
+
+## Positions and Average Gross Monthly Salary
+
+### Sales & Marketing Roles
+- Part Sales Manager: **35**
+- Sales Manager: **35**
+- Sales Planning Manager: **35**
+- Senior Account Manager: **35**
+- Brand Manager: **40**
+- Marketing Communication Manager: **40**
+- Public Relations Manager: **40**
+- Regional Sales Manager: **40**
+- National Sales Manager: **50**
+- Head of Sales: **65**
+- Head of Marketing: **70**
+- Country Head: **80**
+- General Manager Sales: **80**
+- General Manager: **90**
+- Marketing Director: **90**
+- Sales Director: **120**
+
+### Tech Sales Roles
+- Account Manager: **25**
+- Business Development Manager: **25**
+- Presales: **25**
+- Channel Manager: **35**
+- Senior Key Account: **35**
+- Customer Success Manager: **40**
+- Senior Presales: **40**
+- Regional Sales Manager: **60**
+- Account Director: **80**
+- Channel Director: **80**
+- Sales Director: **120**

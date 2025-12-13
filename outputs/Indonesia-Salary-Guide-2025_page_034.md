@@ -1,0 +1,35 @@
+# Technology Salary Overview
+
+## Development
+| Position                        | Average Gross Monthly Salary (in $) |
+|--------------------------------|-------------------------------------|
+| Front-end Developer            | 20                                  |
+| Quality Assurance (QA) Engineer| 23                                  |
+| Back-end Developer             | 25                                  |
+| Mobile Developer               | 25                                  |
+| Full-stack Developer           | 30                                  |
+| Tech Lead                      | 40                                  |
+| Solution Architect             | 55                                  |
+| Engineering Manager            | 67                                  |
+| Head of Engineering            | 81                                  |
+| Vice President Engineering      | 108                                 |
+
+## IT Enterprise
+| Position                                      | Average Gross Monthly Salary (in $) |
+|-----------------------------------------------|-------------------------------------|
+| ERP Functional (Subject Matter Expert)       | 37                                  |
+| IT Governance, Risk, and Compliance (GRC) Manager | 40                              |
+| IT Manager                                    | 50                                  |
+| Head of IT                                    | 85                                  |
+| IT Director                                   | 120                                 |
+
+## Product and Project Manager
+| Position                                      | Average Gross Monthly Salary (in $) |
+|-----------------------------------------------|-------------------------------------|
+| Product Manager                               | 25                                  |
+| Senior Product Manager                        | 35                                  |
+| Senior Project Manager                        | 35                                  |
+| User Experience / User Interface (UX/UI) Designer | 43                              |
+| Head of Programme Management                  | 50                                  |
+| Head of Product Manager                       | 60                                  |
+| Vice President Product Manager                | 90                                  |

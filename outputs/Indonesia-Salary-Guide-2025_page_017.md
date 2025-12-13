@@ -1,0 +1,32 @@
+# Executive Salary Guide
+
+**Data below shows salary in IDR '000,000**
+
+## Job Titles and Average Gross Monthly Salary
+
+| Job Title                                   | Average Gross Monthly Salary |
+|---------------------------------------------|------------------------------|
+| Operations Director                          | 96                           |
+| Non-Executive Director                       | 100                          |
+| Partner                                      | 146                          |
+| Chief Data Officer (CDO)                    | 150                          |
+| Chief Information Officer (CIO)              | 150                          |
+| Chief Information Security Officer (CISO)    | 150                          |
+| Chief People Officer (CPO)                   | 150                          |
+| Chief Technology Officer (CTO)               | 150                          |
+| Director                                     | 150                          |
+| Director of Corporate Secretary               | 150                          |
+| Chief Human Resources Officer (CHRO)         | 169                          |
+| Chief Legal Officer (CLO)                    | 180                          |
+| Chief Operations Officer (COO)               | 180                          |
+| Chief Strategy Officer (CSO)                 | 180                          |
+| Transformation Director                      | 180                          |
+| Chief Risk Officer (CRO)                     | 185                          |
+| Chief Marketing Officer (CMO)                | 190                          |
+| Executive Director                            | 190                          |
+| Country Manager                              | 202                          |
+| Managing Director                            | 218                          |
+| Chief Financial Officer (CFO)                | 225                          |
+| President Director                           | 238                          |
+| Regional Managing Director, SEA              | 266                          |
+| Chief Executive Officer (CEO)                | 519                          |
