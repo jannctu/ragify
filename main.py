@@ -9,7 +9,7 @@ Env:
     - OPENAI_API_KEY harus sudah di-set
 """
 
-import io
+import io   
 import os
 import base64
 from typing import List, Dict
