@@ -1,7 +1,7 @@
-Executive
+a,
+Executive d
 Salary Guide
 Data below shows salary in IDR '000,000
-Job Title Average Gross Monthly Salary
 Operations Director 96
 Non-Executive Director 100
 Partner 146
@@ -26,4 +26,3 @@ Chief Financial Officer (CFO) 225
 President Director 238
 Regional Managing Director, SEA 266
 Chief Executive Officer (CEO) 519
-17

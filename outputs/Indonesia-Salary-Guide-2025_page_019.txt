@@ -1,7 +1,7 @@
-Healthcare & Life Sciences
+a,
+Healthcare & Life Sciences d
 Salary Guide
 Data below shows salary in IDR '000,000
-Healthcare Average Gross Monthly Salary
 Nurse 6
 Pharmacist 7
 Physiotherapist 8
@@ -13,7 +13,6 @@ Hospital Nursing Manager 30
 Hospital Marketing Manager 35
 Ancillary & Medical Affairs Manager 45
 Hospital Director 75
-Life Sciences Average Gross Monthly Salary
 Application Specialist 18
 Clinical Specialist 18
 Area Sales Manager 19
@@ -26,4 +25,3 @@ Market Access Manager 35
 Regulatory Affairs Manager 35
 Regional Sales Manager 36
 Commercial Excellence & Sales Force Effectiveness (SFE) Manager 40
-19

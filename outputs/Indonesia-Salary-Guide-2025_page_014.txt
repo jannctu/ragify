@@ -1,8 +1,8 @@
-Engineering & Manufacturing
+.—__ A
+Engineering & Manufacturing d
 Salary Guide
 Data below shows salary in IDR '000,000
-Engineering, Maintenance, and Utilities Average Gross Monthly Salary
-Computer-Aided Design (CAD) Technician 15
+Computer-Aided Design (CAD) Technician 18
 Engineering Technician 15
 Maintenance Technician 15
 Field Service Technician 16
@@ -26,4 +26,3 @@ Electrical Engineer 29
 Mechanical Engineer 29
 Biomedical Engineer 30
 Maintenance Manager 34
-14

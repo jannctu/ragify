@@ -1,26 +1,23 @@
-Banking & Financial Services
+a,
+Banking & Financial Services d
 Salary Guide
 Data below shows salary in IDR '000,000
-Corporate Finance and Strategy Average Gross Monthly Salary
 Corporate Finance & Strategy Analyst / Associate 20
 Corporate Finance & Strategy Manager 50
 Corporate Finance & Strategy Head 120
 Head of Corporate Finance 120
 Corporate Finance & Strategy Director 150
 Head of Corporate Strategy 150
-Finance, Internal Audit, and Treasury Average Gross Monthly Salary
 Finance Manager 40
-Finance, Accounting and Tax Manager 55
+Finance, Accounting and Tax Manager 55)
 Actuary Manager 60
 Vice President Tax 75
 Finance Controller 80
 Head of Treasury 80
 Head of Internal Audit 90
 Head of Finance 100
-Investment Average Gross Monthly Salary
 Investment Banking Analyst 36
 Investment Banking Associate 39
 Investment Banking Manager 70
 Fund Manager 80
 Investment Banking Director 150
-6
