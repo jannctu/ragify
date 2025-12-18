@@ -2,17 +2,17 @@
 
 ## Sections and Page Numbers
 
-- **Accounting & Finance** - 4
-- **Banking & Financial Services** - 6
-- **Construction** - 9
-- **Energy & Natural Resources** - 11
-- **Engineering & Manufacturing** - 14
-- **Executive** - 17
-- **Healthcare & Life Sciences** - 19
-- **Human Resources (HR)** - 21
-- **Legal** - 23
-- **Procurement & Supply Chain** - 24
-- **Property & Facilities Management** - 26
-- **Retail** - 28
-- **Sales & Marketing** - 29
-- **Technology** - 33
+- **Accounting & Finance** - Page 4
+- **Banking & Financial Services** - Page 6
+- **Construction** - Page 9
+- **Energy & Natural Resources** - Page 11
+- **Engineering & Manufacturing** - Page 14
+- **Executive** - Page 17
+- **Healthcare & Life Sciences** - Page 19
+- **Human Resources (HR)** - Page 21
+- **Legal** - Page 23
+- **Procurement & Supply Chain** - Page 24
+- **Property & Facilities Management** - Page 26
+- **Retail** - Page 28
+- **Sales & Marketing** - Page 29
+- **Technology** - Page 33

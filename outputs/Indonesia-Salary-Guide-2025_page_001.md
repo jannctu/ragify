@@ -4,15 +4,21 @@
 
 ---
 
-This document serves as a comprehensive guide to salary expectations in Indonesia for the year 2025. It provides insights into various sectors and roles, helping both employers and employees navigate the job market effectively.
+This document serves as a comprehensive guide to salary expectations in Indonesia for the year 2025. It provides valuable insights for both employers and employees regarding compensation trends across various sectors.
 
 ## Key Features
 
-- **Market Overview:** An analysis of the current job market trends in Indonesia.
+- **Market Insights:** Overview of the current job market and economic conditions affecting salaries.
 - **Salary Ranges:** Detailed salary ranges for various positions across different industries.
-- **Industry Insights:** Information on the most in-demand skills and roles.
-- **Future Trends:** Predictions on how the job market may evolve in the coming years.
+- **Trends and Predictions:** Analysis of emerging trends that may influence salary structures in the coming years.
+
+## Purpose
+
+The guide aims to assist:
+
+- **Employers:** In making informed decisions about compensation packages to attract and retain talent.
+- **Job Seekers:** To understand their market value and negotiate better salaries.
 
 ---
 
-For more detailed information, please refer to the full guide.
+For further details, please refer to the complete guide.

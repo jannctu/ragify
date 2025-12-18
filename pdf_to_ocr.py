@@ -11,6 +11,7 @@ from typing import List, Dict
 from dotenv import load_dotenv
 from pdf2image import convert_from_path
 import pytesseract
+from quality_gate import evaluate_page_quality
 
 load_dotenv()
 
@@ -74,10 +75,16 @@ def extract_knowledge_from_pdf_ocr(
         print(f"[INFO] OCR processing page {idx}/{total_pages}...")
         text = ocr_image(img, lang=lang)
 
+        quality_report = evaluate_page_quality(text, method="ocr")
+
         results.append(
             {
                 "page": idx,
                 "source": os.path.basename(pdf_path),
+                "method": "ocr",
+                "quality": quality_report["quality"],
+                "reason": quality_report["reason"],
+                "quality_metrics": quality_report["metrics"],
                 "content": text,
             }
         )

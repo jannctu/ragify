@@ -10,9 +10,9 @@
 | Utility Manager                | 45                           |
 | Estate Manager                 | 50                           |
 | GM Downstream                  | 50                           |
-| GM Plantation                   | 50                           |
+| GM Plantation                  | 50                           |
 | Plant Manager                  | 50                           |
-| Head of Agronomist            | 60                           |
+| Head of Agronomist             | 60                           |
 | Head of Engineering            | 80                           |
 | Plantation Director            | 100                          |
 | COO Downstream                 | 120                          |
@@ -26,7 +26,7 @@
 | Geotechnical Engineer          | 29                           |
 | Metallurgist                   | 32                           |
 | Maintenance Manager            | 38                           |
-| Health, Safety, and Environment (HSE) Manager | 39           |
+| Health, Safety, and Environment (HSE) Manager | 39          |
 | Senior Geotechnical Engineer   | 39                           |
 | Exploration Manager            | 40                           |
 | Penanggung Jawab Operasional (PJO) | 40                     |

@@ -1,7 +1,7 @@
-.—__ A
-Accounting & Finance d
+Accounting & Finance
 Salary Guide
 Data below shows salary in IDR '000,000
+Accounting and Finance Average Gross Monthly Salary
 Senior Accountant 25
 Accounts Payable Manager 35
 Accounts Receivable Manager 35
@@ -11,9 +11,11 @@ Group Finance Manager 60
 Head of Accounting 80
 Head of Finance 100
 Finance Director 180
+Audit Average Gross Monthly Salary
 Internal Audit Manager 40
 Internal Control Manager 45
 Head of Internal Audit 120
+Controller Average Gross Monthly Salary
 Cost Accountant 25
 Credit Controller 35
 Plant Controller 40
@@ -22,3 +24,4 @@ Assistant Financial Controller 45
 Business Controller 50
 Financial Controller 80
 Group Financial Controller 100
+4

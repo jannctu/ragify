@@ -10,13 +10,11 @@
 - **Vice President Retail Banking**: 90
 
 ### Risk Management Roles
-| Job Title                        | Average Gross Monthly Salary |
-|----------------------------------|------------------------------|
-| Risk Analyst / Analyst           | 30                           |
-| Operational Risk Manager         | 37                           |
-| Risk Manager                     | 60                           |
-| Head of Risk                     | 100                          |
-| Risk Director                    | 200                          |
+- **Risk Analyst / Analyst**: 30
+- **Operational Risk Manager**: 37
+- **Risk Manager**: 60
+- **Head of Risk**: 100
+- **Risk Director**: 200
 
 ## Additional Information
 

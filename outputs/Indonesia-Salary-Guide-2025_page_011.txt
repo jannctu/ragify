@@ -1,7 +1,7 @@
-a,
-Energy & Natural Resources d
+Energy & Natural Resources
 Salary Guide
 Data below shows salary in IDR '000,000
+Agribusiness Average Gross Monthly Salary
 Process Engineering Manager 40
 Utility Manager 45
 Estate Manager 50
@@ -12,6 +12,7 @@ Head of Agronomist 60
 Head of Engineering 80
 Plantation Director 100
 COO Downstream 120
+Mining and Minerals Average Gross Monthly Salary
 Project Cost Controller 25
 Geologist 27
 Geotechnical Engineer 29
@@ -25,3 +26,4 @@ Senior Geologist 40
 Senior Metallurgist 40
 Engineering Manager 44
 Commodity Trader Supervisor 45
+11

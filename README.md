@@ -6,6 +6,8 @@ A simple yet powerful tool to convert PDF documents into clean, structured markd
 
 - **PDF to Image Conversion**: Converts each PDF page into high-quality images
 - **AI-Powered Extraction**: Uses GPT-4o-mini Vision to extract and clean content
+- **Auto-Fallback Pipeline**: Automatically retries low-quality pages with OCR and escalates to vision LLMs only when needed
+- **Quality Gate Per Page**: Lightweight heuristics flag blank/garbled pages so you can trigger OCR or vision fallbacks
 - **Structured Markdown Output**: Generates clean, well-formatted markdown with:
   - Proper headings and subheadings
   - Bullet points and numbered lists
@@ -54,14 +56,30 @@ A simple yet powerful tool to convert PDF documents into clean, structured markd
 ### Basic Usage
 
 1. Place your PDF file in the `files/` directory
-2. Update the `pdf_file` variable in `main.py`:
+2. Update the `pdf_file` variable in `vision_llm.py`:
    ```python
    pdf_file = "files/your-document.pdf"
    ```
 3. Run the script:
    ```bash
-   python main.py
+   python vision_llm.py
    ```
+
+### Auto-Fallback (Text → OCR → Vision)
+
+The `auto_pipeline.py` script orchestrates per-page fallbacks:
+
+```bash
+python auto_pipeline.py  # uses files/Indonesia-Salary-Guide-2025.pdf by default
+```
+
+Flow per page:
+
+1. Try native text extraction (fast, zero cost)
+2. If quality is `LOW`, OCR the rendered page
+3. If OCR is still `LOW`, escalate to the GPT-4o-mini vision path
+
+Each page record stores the `attempts` array so you can audit which methods were tried before settling on the final content.
 
 ### Output
 
@@ -80,6 +98,27 @@ outputs/
 ├── ...
 └── Indonesia-Salary-Guide-2025_ALL.md
 ```
+
+### Quality Gate Signals
+
+Text-based extractors (`pdf_to_text_no_llm.py`, `pdf_to_ocr.py`) now annotate every page with a simple quality report:
+
+```json
+{
+  "page": 5,
+  "source": "doc.pdf",
+  "method": "text",
+  "quality": "low",
+  "reason": ["too_short", "many_symbols"],
+  "quality_metrics": {
+    "char_count": 42,
+    "weird_char_ratio": 0.32,
+    "newline_ratio": 0.45
+  }
+}
+```
+
+You can use this metadata to decide when to retry the page with OCR or escalate to the vision LLM path.
 
 ## 🎯 Use Cases
 

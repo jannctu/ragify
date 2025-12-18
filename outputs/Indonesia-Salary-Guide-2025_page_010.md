@@ -1,11 +1,11 @@
-# Construction
+# Construction Sector Overview
 
 ## Health, Safety, Environment, and Quality (HSEQ)
 
-| Position        | Average Gross Monthly Salary |
-|-----------------|------------------------------|
-| HSEQ Officer     | 13                           |
-| HSEQ Manager     | 36                           |
+| Position          | Average Gross Monthly Salary |
+|-------------------|------------------------------|
+| HSEQ Officer      | 13                           |
+| HSEQ Manager      | 36                           |
 
 ## Recruitment Information
 

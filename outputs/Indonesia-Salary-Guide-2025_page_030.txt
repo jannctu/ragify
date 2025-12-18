@@ -1,5 +1,4 @@
-a,
-Sales & Marketing d
+Sales & Marketing
 Campaign Manager 40
 Category Manager 40
 Creative Director 40
@@ -16,6 +15,7 @@ Chief of Staff 100
 Vice President Marketing 120
 Vice President Sales 120
 Country Director 140
+Industrial & Manufacturing Average Gross Monthly Salary
 Sales Engineer 18
 Sales Executive 18
 Sales Project Manager 28
@@ -27,3 +27,4 @@ Key Account Manager 32
 Aftersales Manager 35
 Area Sales Manager 35
 Business Development Manager 35
+30

@@ -1,5 +1,4 @@
-a,
-Sales & Marketing d
+Sales & Marketing
 Part Sales Manager 35
 Sales Manager 35
 Sales Planning Manager 35
@@ -16,6 +15,7 @@ General Manager Sales 80
 General Manager 90
 Marketing Director 120
 Sales Director 120
+Tech Sales Average Gross Monthly Salary
 Account Manager 25
 Business Development Manager 25
 Presales 25
@@ -27,3 +27,4 @@ Regional Sales Manager 60
 Account Director 80
 Channel Director 80
 Sales Director 120
+31

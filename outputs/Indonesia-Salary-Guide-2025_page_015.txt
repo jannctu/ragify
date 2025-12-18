@@ -1,5 +1,4 @@
-a,
-Engineering & Manufacturing d
+Engineering & Manufacturing
 Senior Automation Engineer 36
 Senior Design Engineer 36
 Senior Electrical Engineer 36
@@ -7,11 +6,13 @@ Engineering Manager 40
 Engineering Operations Manager 40
 Engineering Project Manager 40
 Engineering Director 80
+Health, Safety, and Environment (HSE) Average Gross Monthly Salary
 HSE Administrator 13
 Safety Engineer 23
 Environmental Engineer 28
 HSE Manager 35
 Senior HSE Manager 60
+Manufacturing Operations Average Gross Monthly Salary
 Continuous Improvement Engineer 22
 Industrial Engineer 22
 Manufacturing Engineer 22
@@ -22,3 +23,4 @@ Deputy General Manager 42
 Manufacturing Manager 42
 Plant Manager 52
 Site Director 98
+15

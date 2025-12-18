@@ -17,7 +17,7 @@
 - Country Head: **80**
 - General Manager Sales: **80**
 - General Manager: **90**
-- Marketing Director: **90**
+- Marketing Director: **120**
 - Sales Director: **120**
 
 ### Tech Sales Roles

@@ -1,14 +1,13 @@
 # Property & Facilities Management
 
-## Job Titles and Page Numbers
-
-- **Security Manager** - 22
-- **Technical Services Manager** - 28
-- **Expansion Manager** - 31
-- **Portfolio Manager** - 31
-- **Acquisition Manager** - 36
-- **Design Manager** - 36
-- **Leasing Manager** - 41
+## Job Titles and Corresponding Numbers
+- **Security Manager**: 22
+- **Technical Services Manager**: 28
+- **Expansion Manager**: 31
+- **Portfolio Manager**: 31
+- **Acquisition Manager**: 36
+- **Design Manager**: 36
+- **Leasing Manager**: 41
 
 ## Recruitment Information
 

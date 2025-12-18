@@ -1,5 +1,5 @@
-N__ A
-Banking & Financial Services d
+Banking & Financial Services
+Know Your Customer (KYC) , Anti Money Laundering (AML), and Compliance Average Gross Monthly Salary
 Data Protection Officer 23
 KYC Associate 25
 Financial Crime Analyst 27
@@ -8,6 +8,7 @@ AML Manager 42
 Compliance Manager 50
 Head of Compliance 90
 Compliance Director 200
+Operations Average Gross Monthly Salary
 Credit Analyst 25
 Claims Manager 30
 Underwriting Manager 40
@@ -19,10 +20,11 @@ Senior Vice President Credit Control 80
 Technical Director 100
 Vice President Customer Excellence 100
 Vice President Operations 100
+Retail and Corporate Sales Average Gross Monthly Salary
 Equity Sales Retail 20
 Retail Relationship Manager 25
 Priority Banking Relationship Manager 28
 Credit Analyst 30
 Branch Manager Retail 50
 Head of Business Development 70
-Me f a
+7

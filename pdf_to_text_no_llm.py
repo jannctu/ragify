@@ -3,6 +3,7 @@ import re
 from typing import List, Dict, Optional
 from dotenv import load_dotenv
 import pdfplumber
+from quality_gate import evaluate_page_quality
 
 load_dotenv()
 
@@ -37,10 +38,16 @@ def extract_text_from_pdf(pdf_path: str) -> List[Dict]:
             txt = page.extract_text() or ""
             txt = normalize_text(txt)
 
+            quality_report = evaluate_page_quality(txt, method="text")
+
             results.append(
                 {
                     "page": idx,
                     "source": os.path.basename(pdf_path),
+                    "method": "text",
+                    "quality": quality_report["quality"],
+                    "reason": quality_report["reason"],
+                    "quality_metrics": quality_report["metrics"],
                     "content": txt,
                 }
             )
